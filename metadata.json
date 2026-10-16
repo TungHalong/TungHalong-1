@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thống Quản lý Nguồn Nghĩa vụ quân sự Cấp Phường",
+  "description": "Hệ thống rà soát, thu thập, số hóa và quản lý nguồn công dân trong độ tuổi Nghĩa vụ quân sự cấp phường theo Luật NVQS hợp nhất số 133/2026, TT 68/2025, TT 105/2023, TT 106/2025 và NĐ 218/2025.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
